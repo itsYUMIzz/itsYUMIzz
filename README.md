@@ -14,7 +14,7 @@
 <img align="right" alt="" height="190px" src="![image](https://github.com/user-attachments/assets/1865b6d2-fb1e-4833-a0a1-3da74236d194)
 ">
 
-<h3 align="left">Fala comigo!ʕ•́ᴥ•̀ʔ</h3>
+<h3 align="left">Fala comigo por essas redes sociais!ʕ•́ᴥ•̀ʔ</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:zbrunno.barreto@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/zbrun0_z/)
@@ -57,6 +57,9 @@
 
 
 #
+
+# PERDENDO A SANIDADE TODO DIA NA FRENTE DO PC KKKKK
+
 ![image](https://github.com/user-attachments/assets/333d0da5-b353-41c6-9f75-a7ac3c1572ac)
 </div>
 
