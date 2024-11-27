@@ -9,7 +9,7 @@
 
 #
 
-<p align="center">Etudante de Tecnico de Desenvolvimento de Sistema Aluno do Senai
+<p align="center">Estudante de Tecnico de Desenvolvimento de Sistema Aluno do Senai
 
 <img align="right" alt="" height="190px" src="![image](https://github.com/user-attachments/assets/1865b6d2-fb1e-4833-a0a1-3da74236d194)
 ">
