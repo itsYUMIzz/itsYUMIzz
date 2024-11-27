@@ -11,8 +11,7 @@
 
 <p align="center">Estudante de Tecnico de Desenvolvimento de Sistema Aluno do Senai
 
-<img align="right" alt="" height="190px" src="![image](https://github.com/user-attachments/assets/1865b6d2-fb1e-4833-a0a1-3da74236d194)
-">
+<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/3cb703d8-71aa-4212-939f-bdbfa46a05c">
 
 <h3 align="left">Fala comigo por essas redes sociais!ʕ•́ᴥ•̀ʔ</h3>
 
@@ -60,8 +59,11 @@
 
 # PERDENDO A SANIDADE TODO DIA NA FRENTE DO PC KKKKK
 
-![image](https://github.com/user-attachments/assets/333d0da5-b353-41c6-9f75-a7ac3c1572ac)
+![fire-force](https://github.com/user-attachments/assets/ed873518-28a4-4aeb-b50e-24baa9a4bbcd)
+
 </div>
+
+
 
 <img align="center" alt="" src="">
 
