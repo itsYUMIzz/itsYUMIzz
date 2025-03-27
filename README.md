@@ -15,7 +15,7 @@
 
 <img align="right" alt="" height="190px" src="https://media.tenor.com/VOQM9bXxYdQAAAAj/anime.gif">
 
-">
+
 
 
 <h3 align="left">De preferencia não fale comigo, mas caso queira é por essas redes sociais!ʕ•́ᴥ•̀ʔ</h3>
@@ -35,7 +35,10 @@
   <img width="8" />
 <img src="https://github.com/user-attachments/assets/e99af6d8-57e7-4e8b-95be-77484407624c" height="25" alt="mysql logo"  />
   <img width="8" />
+  <img src="https://github.com/user-attachments/assets/38216e1a-020e-4b80-b40e-49ed734cbe70" height="25" alt="mysql logo"  />
+  <img width="8" />
 </div>
+
 
 
 #
