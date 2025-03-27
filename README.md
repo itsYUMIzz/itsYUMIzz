@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=63625F&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -10,9 +10,10 @@
 
 #
 
-<p align="center">Estudante de Tecnico de Desenvolvimento de Sistema Aluno do Senai
+<p align="center">Estudante de Tecnico de Desenvolvimento de Sistema Aluno do Senai (Pobre Vencedor)
 
-<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/ed873518-28a4-4aeb-b50e-24baa9a4bbcd">
+
+<img align="right" alt="" height="190px" src="https://media.tenor.com/VOQM9bXxYdQAAAAj/anime.gif">
 
 ">
 
@@ -28,7 +29,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
+  <img src="https://github.com/user-attachments/assets/e374ef19-c8eb-4b55-b759-7ecea2cb2e08" height="25" alt="c logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
   <img width="8" />
